@@ -1,3 +1,4 @@
+ //Write a Java program that takes three numbers from the user and prints the greatest number.
 import java.util.Scanner;
 public class greatest_of_three_numbers
 {
